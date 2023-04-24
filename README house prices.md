@@ -53,12 +53,7 @@ plt.show()
 
 
 
-
-
-
-
-
-
+## Replicate the previious steps for the following variables
 
 ## Predict SalePrice using LotArea and plot histogram for SalePrice
 train['LotArea'].head()
